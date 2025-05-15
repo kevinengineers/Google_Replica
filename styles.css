@@ -4,12 +4,13 @@
 
 /* Challenge - part 2: 
 Replace the element selectors with class selectors */
-.googleImg {
+.logo-img {
     display: block;
     width: 300px;
+    margin-bottom: 50px;
 }
 
-.searchInput {
+.search-input {
     display: block;
     width: 400px;
 }
